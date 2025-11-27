@@ -1,0 +1,14 @@
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\bin\Debug\net10.0\Triangulos.exe
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\bin\Debug\net10.0\Triangulos.deps.json
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\bin\Debug\net10.0\Triangulos.runtimeconfig.json
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\bin\Debug\net10.0\Triangulos.dll
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\bin\Debug\net10.0\Triangulos.pdb
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\Triangulos.AssemblyInfoInputs.cache
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\Triangulos.AssemblyInfo.cs
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\Triangulos.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\Triangulos.dll
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\refint\Triangulos.dll
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\Triangulos.pdb
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\Triangulos.genruntimeconfig.cache
+D:\Programacao\C#\CSharp-exercises\Triangulos\Triangulos\obj\Debug\net10.0\ref\Triangulos.dll

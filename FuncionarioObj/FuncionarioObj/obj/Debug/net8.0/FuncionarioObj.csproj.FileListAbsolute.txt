@@ -1,0 +1,14 @@
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\bin\Debug\net8.0\FuncionarioObj.exe
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\bin\Debug\net8.0\FuncionarioObj.deps.json
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\bin\Debug\net8.0\FuncionarioObj.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\bin\Debug\net8.0\FuncionarioObj.dll
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\bin\Debug\net8.0\FuncionarioObj.pdb
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\FuncionarioObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\FuncionarioObj.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\FuncionarioObj.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\FuncionarioObj.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\FuncionarioObj.dll
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\refint\FuncionarioObj.dll
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\FuncionarioObj.pdb
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\FuncionarioObj.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\FuncionarioObj\FuncionarioObj\obj\Debug\net8.0\ref\FuncionarioObj.dll

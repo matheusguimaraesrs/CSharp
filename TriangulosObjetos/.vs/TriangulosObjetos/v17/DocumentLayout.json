@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus guimaraes\\source\\repos\\TriangulosObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5D2FCA-2372-46BB-9B42-C3C9366A78EE}|TriangulosObjetos\\TriangulosObjetos.csproj|c:\\users\\matheus guimaraes\\source\\repos\\triangulosobjetos\\triangulosobjetos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5D2FCA-2372-46BB-9B42-C3C9366A78EE}|TriangulosObjetos\\TriangulosObjetos.csproj|solutionrelative:triangulosobjetos\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5D2FCA-2372-46BB-9B42-C3C9366A78EE}|TriangulosObjetos\\TriangulosObjetos.csproj|c:\\users\\matheus guimaraes\\source\\repos\\triangulosobjetos\\triangulosobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5D2FCA-2372-46BB-9B42-C3C9366A78EE}|TriangulosObjetos\\TriangulosObjetos.csproj|solutionrelative:triangulosobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\TriangulosObjetos\\TriangulosObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "TriangulosObjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\TriangulosObjetos\\TriangulosObjetos\\Program.cs",
+              "RelativeToolTip": "TriangulosObjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:14:12.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\TriangulosObjetos\\TriangulosObjetos\\Triangulo.cs",
+              "RelativeDocumentMoniker": "TriangulosObjetos\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\TriangulosObjetos\\TriangulosObjetos\\Triangulo.cs",
+              "RelativeToolTip": "TriangulosObjetos\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:38:27.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

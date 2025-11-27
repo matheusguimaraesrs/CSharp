@@ -1,0 +1,15 @@
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\bin\Debug\net10.0\Stock.exe
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\bin\Debug\net10.0\Stock.deps.json
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\bin\Debug\net10.0\Stock.runtimeconfig.json
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\bin\Debug\net10.0\Stock.dll
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\bin\Debug\net10.0\Stock.pdb
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.AssemblyInfoInputs.cache
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.AssemblyInfo.cs
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.sourcelink.json
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.dll
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\refint\Stock.dll
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.pdb
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\Stock.genruntimeconfig.cache
+D:\Programacao\C#\CSharp-exercises\Stock\Stock\obj\Debug\net10.0\ref\Stock.dll

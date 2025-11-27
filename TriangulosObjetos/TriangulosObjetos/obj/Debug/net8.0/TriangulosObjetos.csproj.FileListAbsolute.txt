@@ -1,0 +1,14 @@
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\TriangulosObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\TriangulosObjetos.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\TriangulosObjetos.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\TriangulosObjetos.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\bin\Debug\net8.0\TriangulosObjetos.exe
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\bin\Debug\net8.0\TriangulosObjetos.deps.json
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\bin\Debug\net8.0\TriangulosObjetos.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\bin\Debug\net8.0\TriangulosObjetos.dll
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\bin\Debug\net8.0\TriangulosObjetos.pdb
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\TriangulosObjetos.dll
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\refint\TriangulosObjetos.dll
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\TriangulosObjetos.pdb
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\TriangulosObjetos.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\TriangulosObjetos\TriangulosObjetos\obj\Debug\net8.0\ref\TriangulosObjetos.dll

@@ -1,0 +1,14 @@
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\bin\Debug\net8.0\ExeObj.exe
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\bin\Debug\net8.0\ExeObj.deps.json
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\bin\Debug\net8.0\ExeObj.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\bin\Debug\net8.0\ExeObj.dll
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\bin\Debug\net8.0\ExeObj.pdb
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ExeObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ExeObj.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ExeObj.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ExeObj.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ExeObj.dll
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\refint\ExeObj.dll
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ExeObj.pdb
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ExeObj.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\ExeObj\ExeObj\obj\Debug\net8.0\ref\ExeObj.dll

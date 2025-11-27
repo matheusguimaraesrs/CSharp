@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacao\\C#\\CSharp-exercises\\Triangulos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3040556D-8D2E-41D0-BD29-8ACDED5D7C06}|Triangulos\\Triangulos.csproj|d:\\programacao\\c#\\csharp-exercises\\triangulos\\triangulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3040556D-8D2E-41D0-BD29-8ACDED5D7C06}|Triangulos\\Triangulos.csproj|solutionrelative:triangulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programacao\\C#\\CSharp-exercises\\Triangulos\\Triangulos\\Program.cs",
+              "RelativeDocumentMoniker": "Triangulos\\Program.cs",
+              "ToolTip": "D:\\Programacao\\C#\\CSharp-exercises\\Triangulos\\Triangulos\\Program.cs",
+              "RelativeToolTip": "Triangulos\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:05:03.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
