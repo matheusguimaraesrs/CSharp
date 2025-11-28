@@ -1,0 +1,15 @@
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\bin\Debug\net8.0\RetanguloObj.exe
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\bin\Debug\net8.0\RetanguloObj.deps.json
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\bin\Debug\net8.0\RetanguloObj.runtimeconfig.json
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\bin\Debug\net8.0\RetanguloObj.dll
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\bin\Debug\net8.0\RetanguloObj.pdb
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.AssemblyInfoInputs.cache
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.AssemblyInfo.cs
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.sourcelink.json
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.dll
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\refint\RetanguloObj.dll
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.pdb
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\RetanguloObj.genruntimeconfig.cache
+D:\Programacao\C#\CSharp\TrianguloObj3\TrianguloObj3\obj\Debug\net8.0\ref\RetanguloObj.dll

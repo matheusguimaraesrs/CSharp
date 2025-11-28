@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Stock",
+    "\\Stock\\Stock"
   ],
-  "SelectedNode": "\\TrianguloObjeto",
+  "SelectedNode": "\\Stock\\Stock\\Product.cs",
   "PreviewInSolutionExplorer": false
 }

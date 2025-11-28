@@ -22,5 +22,11 @@ namespace Stock
         {
             quant -= quantRm;
         }
+        public override string ToString()
+        {
+            return "$" + price.ToString("F2") + "\n" 
+                + quant + " unidades\n" 
+                + "Total: $" + Total().ToString("F2");
+        }
     }
 }

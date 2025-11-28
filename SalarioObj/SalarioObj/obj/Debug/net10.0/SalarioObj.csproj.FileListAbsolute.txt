@@ -1,0 +1,15 @@
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.AssemblyInfoInputs.cache
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.AssemblyInfo.cs
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.sourcelink.json
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\bin\Debug\net10.0\SalarioObj.exe
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\bin\Debug\net10.0\SalarioObj.deps.json
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\bin\Debug\net10.0\SalarioObj.runtimeconfig.json
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\bin\Debug\net10.0\SalarioObj.dll
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\bin\Debug\net10.0\SalarioObj.pdb
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.dll
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\refint\SalarioObj.dll
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.pdb
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\SalarioObj.genruntimeconfig.cache
+D:\Programacao\C#\CSharp\SalarioObj\SalarioObj\obj\Debug\net10.0\ref\SalarioObj.dll
