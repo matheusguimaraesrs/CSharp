@@ -14,6 +14,14 @@ namespace Stock
         {
             return quant * price;
         }
+
+        /*public override string ToString()
+        {
+            return name 
+                + ", " 
+                + price.ToString("F2")}, Total em estoque: {quant}, ";
+        }*/
+
         public void Add(double quantAdd)
         {
             quant += quantAdd;
