@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExeObj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6c4e608a3a4a0434cee2a124bd72b186329838a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c18c4d22041d01e574ebab5470240852cd8f97a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExeObj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExeObj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
