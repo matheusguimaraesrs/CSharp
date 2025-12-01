@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\esferaobj\\esferaobj\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|solutionrelative:esferaobj\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EsferaObj\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\esferaobj\\esferaobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|solutionrelative:esferaobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EsferaObj\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Program.cs",
               "RelativeDocumentMoniker": "EsferaObj\\Program.cs",
               "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Program.cs",
               "RelativeToolTip": "EsferaObj\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T11:33:19.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Calculadora.cs",
               "RelativeDocumentMoniker": "EsferaObj\\Calculadora.cs",
               "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Calculadora.cs",
               "RelativeToolTip": "EsferaObj\\Calculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T11:34:29.409Z",
               "EditorCaption": ""
