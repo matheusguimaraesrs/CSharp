@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45896B92-4C2B-4F9F-8638-B56A3F4E0833}|EsferaObj\\EsferaObj.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\esferaobj\\esferaobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45896B92-4C2B-4F9F-8638-B56A3F4E0833}|EsferaObj\\EsferaObj.csproj|solutionrelative:esferaobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\esferaobj\\esferaobj\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|solutionrelative:esferaobj\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45896B92-4C2B-4F9F-8638-B56A3F4E0833}|EsferaObj\\EsferaObj.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\esferaobj\\esferaobj\\raio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45896B92-4C2B-4F9F-8638-B56A3F4E0833}|EsferaObj\\EsferaObj.csproj|solutionrelative:esferaobj\\raio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\esferaobj\\esferaobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CD0380-069C-42A5-BD03-D5E94A871F36}|EsferaObj\\EsferaObj.csproj|solutionrelative:esferaobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Program.cs",
               "RelativeDocumentMoniker": "EsferaObj\\Program.cs",
               "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Program.cs",
               "RelativeToolTip": "EsferaObj\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:01:44.614Z",
+              "WhenOpened": "2025-12-01T11:33:19.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Raio.cs",
-              "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Raio.cs",
-              "RelativeDocumentMoniker": "EsferaObj\\Raio.cs",
-              "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Raio.cs",
-              "RelativeToolTip": "EsferaObj\\Raio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Calculadora.cs",
+              "RelativeDocumentMoniker": "EsferaObj\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\EsferaObj\\EsferaObj\\Calculadora.cs",
+              "RelativeToolTip": "EsferaObj\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T10:11:22.142Z",
+              "WhenOpened": "2025-12-01T11:34:29.409Z",
               "EditorCaption": ""
             }
           ]

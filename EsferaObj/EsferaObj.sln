@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsferaObj", "EsferaObj\EsferaObj.csproj", "{45896B92-4C2B-4F9F-8638-B56A3F4E0833}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsferaObj", "EsferaObj\EsferaObj.csproj", "{B2CD0380-069C-42A5-BD03-D5E94A871F36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{45896B92-4C2B-4F9F-8638-B56A3F4E0833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45896B92-4C2B-4F9F-8638-B56A3F4E0833}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45896B92-4C2B-4F9F-8638-B56A3F4E0833}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45896B92-4C2B-4F9F-8638-B56A3F4E0833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CD0380-069C-42A5-BD03-D5E94A871F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CD0380-069C-42A5-BD03-D5E94A871F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CD0380-069C-42A5-BD03-D5E94A871F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CD0380-069C-42A5-BD03-D5E94A871F36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D9D167E7-E8B7-470D-843F-32E69C8116CA}
+		SolutionGuid = {34275A23-7155-47FB-BB6A-C5E1D3680A83}
 	EndGlobalSection
 EndGlobal

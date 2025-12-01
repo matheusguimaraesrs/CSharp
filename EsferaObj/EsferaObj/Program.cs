@@ -6,20 +6,15 @@ namespace EsferaObj
     {
         static void Main(string[] args)
         {
-            Raio Valor = new Raio();
+            Calculadora calc = new Calculadora();
 
             Console.WriteLine("Informe o valor do Raio:");
-            Valor.ValorRaio = double.Parse(Console.ReadLine());
-            double Circ = Valor.Circunferencia();
-            double Vol = Volume(Valor.ValorRaio);
+            double Raio = double.Parse(Console.ReadLine());
+            double Circ = calc.Circunferencia(Raio);
+            double Vol = calc.Volume(Raio);
             Console.WriteLine($"Circunferência: {Circ.ToString("F2")}");
             Console.WriteLine($"Valume: {Vol.ToString("F2")}");
-            Console.WriteLine($"Valor de PI: {Valor.Pi.ToString("F2")}");
-        }
-
-        static double Volume (double r)
-        {
-            return 4 / 3 * 3.14 * Math.Pow(r, 3);
+            Console.WriteLine($"Valor de PI: {calc.Pi.ToString("F2")}");
         }
     }
 }
