@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\bin\Debug\net8.0\ArrayObj.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\bin\Debug\net8.0\ArrayObj.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\bin\Debug\net8.0\ArrayObj.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\bin\Debug\net8.0\ArrayObj.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\bin\Debug\net8.0\ArrayObj.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\refint\ArrayObj.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ArrayObj.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\ArrayObj\obj\Debug\net8.0\ref\ArrayObj.dll
