@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\bin\Debug\net8.0\SistemaBanco.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\bin\Debug\net8.0\SistemaBanco.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\bin\Debug\net8.0\SistemaBanco.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\bin\Debug\net8.0\SistemaBanco.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\bin\Debug\net8.0\SistemaBanco.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\refint\SistemaBanco.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\SistemaBanco.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaBanco\obj\Debug\net8.0\ref\SistemaBanco.dll
