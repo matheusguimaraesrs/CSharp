@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\bin\Debug\net8.0\Hotel.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\bin\Debug\net8.0\Hotel.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\bin\Debug\net8.0\Hotel.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\bin\Debug\net8.0\Hotel.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\bin\Debug\net8.0\Hotel.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\refint\Hotel.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\Hotel.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Hotel\obj\Debug\net8.0\ref\Hotel.dll
