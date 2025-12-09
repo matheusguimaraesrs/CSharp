@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\bin\Debug\net8.0\SistemaSupermercado.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\bin\Debug\net8.0\SistemaSupermercado.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\bin\Debug\net8.0\SistemaSupermercado.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\bin\Debug\net8.0\SistemaSupermercado.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\bin\Debug\net8.0\SistemaSupermercado.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\refint\SistemaSupermercado.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\SistemaSupermercado.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\SistemaSupermercado\obj\Debug\net8.0\ref\SistemaSupermercado.dll

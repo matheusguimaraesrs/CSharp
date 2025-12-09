@@ -1,0 +1,83 @@
+# Arquivo .gitignore padrão para projetos C# / .NET
+
+### Diretórios de Build e Saída ###
+##################################
+
+# Pastas de saída de compilação (binários)
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Pastas de Teste de Unidade (TestResults)
+TestResults/
+
+# Arquivos de log e rastreamento
+*.log
+*.pfx
+*.snk
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+### Pacotes e Dependências (NuGet) ###
+######################################
+
+# Pasta de pacotes NuGet globais
+.nuget/
+# Pasta de pacotes restaurados pelo NuGet (se usada no repositório)
+packages/
+
+# Arquivos gerados por ferramentas .NET (dotnet tool)
+.config/dotnet-tools.json
+
+### Visual Studio (IDE) ###
+###########################
+
+# Arquivos de configurações do usuário
+*.vspscc
+*.vssscc
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de caches de IntelliSense, build e metadados
+*.ncb
+*.aps
+*.obj
+*.pdb
+*.optr
+*.tdb
+
+# Arquivos de soluções e projetos temporários/gerados
+*.vcxproj.filters
+*.vcxproj.user
+*.resharper
+*.bak
+*.xmetaproj
+
+# Diretório de soluções do Visual Studio (oculto)
+.vs/
+# Certificados e chaves (chave pública pode ser incluída, mas a privada não)
+*.pfx
+
+### Diretórios e Arquivos do Rider (JetBrains) ###
+##################################################
+
+# Arquivos de configurações do Rider
+.idea/
+
+### Outros Arquivos Temporários ###
+###################################
+
+# Arquivos de backup
+*~
+# Arquivos de metadados do Mac
+.DS_Store
+
+# Diretório de perfis do Visual Studio Code (se usar)
+.vscode/
+
+# Configurações de teste
+.runsettings

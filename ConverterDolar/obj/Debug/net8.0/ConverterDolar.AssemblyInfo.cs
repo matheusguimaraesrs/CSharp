@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EsferaObj")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConverterDolar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69b4ed44d0fa974316b1f58aa7bf99c20ea1454e")]
-[assembly: System.Reflection.AssemblyProductAttribute("EsferaObj")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EsferaObj")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConverterDolar")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConverterDolar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

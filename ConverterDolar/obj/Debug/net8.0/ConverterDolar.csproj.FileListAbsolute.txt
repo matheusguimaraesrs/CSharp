@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\bin\Debug\net8.0\ConverterDolar.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\bin\Debug\net8.0\ConverterDolar.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\bin\Debug\net8.0\ConverterDolar.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\bin\Debug\net8.0\ConverterDolar.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\bin\Debug\net8.0\ConverterDolar.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\refint\ConverterDolar.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ConverterDolar.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\ConverterDolar\obj\Debug\net8.0\ref\ConverterDolar.dll

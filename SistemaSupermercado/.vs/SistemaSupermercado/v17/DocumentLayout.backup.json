@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\SistemaSupermercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF09021-0A6A-4910-8365-9F4C034AC1F2}|SistemaSupermercado.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\sistemasupermercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF09021-0A6A-4910-8365-9F4C034AC1F2}|SistemaSupermercado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF09021-0A6A-4910-8365-9F4C034AC1F2}|SistemaSupermercado.csproj|c:\\users\\matheus guimaraes\\source\\repos\\csharp\\sistemasupermercado\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF09021-0A6A-4910-8365-9F4C034AC1F2}|SistemaSupermercado.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\SistemaSupermercado\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\SistemaSupermercado\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:49:56.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\SistemaSupermercado\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\matheus guimaraes\\source\\repos\\CSharp\\SistemaSupermercado\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:59:29.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
