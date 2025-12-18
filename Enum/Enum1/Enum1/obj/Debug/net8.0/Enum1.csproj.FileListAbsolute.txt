@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\bin\Debug\net8.0\Enum1.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\bin\Debug\net8.0\Enum1.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\bin\Debug\net8.0\Enum1.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\bin\Debug\net8.0\Enum1.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\bin\Debug\net8.0\Enum1.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\refint\Enum1.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\Enum1.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Enum1\Enum1\obj\Debug\net8.0\ref\Enum1.dll
