@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\bin\Debug\net8.0\RedeSocial_Enum.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\bin\Debug\net8.0\RedeSocial_Enum.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\bin\Debug\net8.0\RedeSocial_Enum.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\bin\Debug\net8.0\RedeSocial_Enum.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\bin\Debug\net8.0\RedeSocial_Enum.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\refint\RedeSocial_Enum.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\RedeSocial_Enum.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\RedeSocial_Enum\RedeSocial_Enum\obj\Debug\net8.0\ref\RedeSocial_Enum.dll
