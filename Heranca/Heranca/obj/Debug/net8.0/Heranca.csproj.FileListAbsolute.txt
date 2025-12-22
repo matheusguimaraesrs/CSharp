@@ -1,0 +1,15 @@
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\bin\Debug\net8.0\Heranca.exe
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\bin\Debug\net8.0\Heranca.deps.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\bin\Debug\net8.0\Heranca.runtimeconfig.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\bin\Debug\net8.0\Heranca.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\bin\Debug\net8.0\Heranca.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.sourcelink.json
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\refint\Heranca.dll
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.pdb
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\Heranca.genruntimeconfig.cache
+C:\Users\matheus guimaraes\source\repos\CSharp\Enum\Heranca\Heranca\obj\Debug\net8.0\ref\Heranca.dll
